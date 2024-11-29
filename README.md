@@ -8,5 +8,5 @@
 
 - [Website](https://cburrows.dev/)
 - [StackBlitz](https://stackblitz.com/@cburrowsdev)
-- [X.com](https://x.com/cburrows)
+- [Bluesky](https://bsky.app/profile/cburrows.dev)
 - [Instagram](https://instagram.com/cburrows)
