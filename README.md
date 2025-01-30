@@ -1,12 +1,10 @@
 `👋 Hi, I’m Chris`
 
-`Blending code and design to create seamless and intuitive user experiences.`
+`Developer building apps <br />and visualising data`
 
-`Currently working full-time visualising data.`
+`Currently working in the energy sector helping humans make sense of their data. Hacking away in Angular and .NET with recursive caffeine loops and extreme console logging.`
 
 ---
 
 - [Website](https://cburrows.dev/)
 - [StackBlitz](https://stackblitz.com/@cburrowsdev)
-- [Bluesky](https://bsky.app/profile/cburrows.dev)
-- [Instagram](https://instagram.com/cburrows)
